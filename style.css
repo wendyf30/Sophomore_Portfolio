@@ -1,1 +1,16 @@
 
+.banner{
+	background-color: rgba(159,166,104,0.4);
+  background-color: #f89f63;
+	margin: 15px;
+	padding: 10px;
+	border: 3px solid #ff944d;
+	box-shadow: 1px 3px 30px 1px #ffac75;
+	text-transform: capitalize;
+	text-shadow: 1px 1px #ffb54d ;
+	font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+	height: 120px;
+	text-align: right;
+	font-style: oblique;
+  
+}
