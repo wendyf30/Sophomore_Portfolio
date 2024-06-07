@@ -1,15 +1,165 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+#heading{
+  font-size: 5.5em;
+  color: #ffffff;
+  font-family: Send Flowers;
+  font-weight:400;
+  font-style:normal;
+  text-align:center;
+  padding:4px;
+  text-shadow: 1px 1px 2px #FF69B4, 0 0 25px #F33A6A, 0 0 5px #E0115F;
+}
+.Send Flowers-regular {
+  font-family: "Send Flowers", system-ui;
+  font-weight: 400;
+  font-style: normal;
+  color: #ffffff;
+}
+h2{
+  font-family: "Send Flowers", system-ui;
+  font-weight: 400;
+  font-style: normal;
+  text-align:center;
+  font-size: 60px;
+  color: #FF69B4;
+  text-shadow:1px 1px 2px #ffffff;
+}
+p{
+  font-family: "Hi Melody", system-ui;
+  font-weight: 400;
+  font-style: normal;
+  text-align:center;
+  font-size: 30px;
+  text-shadow:1px 1px 2px #FF69B4
+}
+li{
+  display:inline;
+}
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+#navi{
+  background-image: url("Coquette Pink Bow Pattern.jpg");
+  padding: 20px;
+  position: relative;
+  text-align:center;
+  font-size: 1.3em;
+  box-shadow: 1px 3px 30px 1px  #ffffff;
+}
+a{
+  padding: 20px;
+  position: relative;
+  text-align:center;
+  font-size: 30px;
+  word-spacing: 200px;
+   font-family: "Send Flowers", system-ui;
+  text-decoration: none;
+}
+body{
+  background-color: #FFB6C1;
+}
+a:hover{
+  color:#F33A6A;
+}
 
-.banner{
-	background-color: rgba(159,166,104,0.4);
-  background-color: #f89f63;
-	margin: 15px;
-	padding: 10px;
-	border: 3px solid #ff944d;
-	box-shadow: 1px 3px 30px 1px #ffac75;
-	text-transform: capitalize;
-	text-shadow: 1px 1px #ffb54d ;
-	height: 120px;
-	text-align: right;
-	font-style: oblique;
-  
+a:link{
+  color:#FF69B4;
+}
+a:visited{
+  color:#AA336A;
+}
+#subheading{
+  font-size: 5.5em;
+  letter-spacing: 0.3cm;
+  color:#000000;
+  font-family:Modak;
+  font-weight:400;
+  font-style:normal;
+  text-align:center;
+  padding:55px;
+}
+#labs{
+
+  font-size: 2em;
+  padding:20px;
+}
+.container{
+  box-shadow: 1px 3px 30px 1px #ffffff;
+  color: #000000;
+  height:2500px;
+ margin: 15px;
+  overflow:hidden;
+  text-align: center;
+}
+.wave{
+  border: 1px dashed black;
+  height:50px;
+  width: 80%;
+  position: relative;
+  left:10%;
+  transition: height 4s;
+  display:block;
+  overflow:hidden;
+
+}
+u1{
+  transition: height 4s;
+}
+#u1:hover{
+  height:1500px;
+  z-index: 1;
+}
+b{
+  font-family: "Hi Melody", system-ui;
+  font-weight: 400;
+  font-style: normal;
+  text-align:center;
+  font-size: 2em;
+}
+iframe{
+  float: left;
+}
+.container1{
+  box-shadow: 1px 3px 30px 1px #ffffff;
+  color: #000000;
+  height:50%;
+ margin: 15px;
+  overflow:hidden;
+  text-align: center;
+}
+#description{
+  float:left;
+  width:49.5%;
+  font-size:1.5em;
+  color: #ffffff;
+}
+#photo{
+  float:right;
+  width:49.5%
+}
+img{
+  border-color: white;
+  border-style: dotted;
+  border-width: 10px;
+  border-radius: 10px;
+  box-shadow: 1px 3px 30px 1px  #ffffff;
+}
+#lablink{
+  font-size: 1.4em;
+  padding:20px;
+}
+
+#lablink:hover{
+  background-color: none;
+  color:#bf7db3;
+}
+
+#labsnavi{
+  background-color: white;
+  border:2px #ededed solid
 }
