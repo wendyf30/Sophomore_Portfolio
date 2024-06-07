@@ -5,7 +5,7 @@ html {
 #heading{
   font-size: 5.5em;
   color: #DE35E3;
-  font-family: Send Flowers;
+  font-family:fantasy;
   font-weight:400;
   font-style:normal;
   text-align:center;
@@ -61,7 +61,7 @@ a{
   text-decoration: none;
 }
 body{
-  background-color: #FFB6C1;
+  background-color: #D957DD;
 }
 a:hover{
   color:#F33A6A;
