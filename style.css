@@ -13,13 +13,13 @@ html {
   text-shadow: 1px 1px 2px #FF69B4, 0 0 25px #F33A6A, 0 0 5px #E0115F;
 }
 .Send Flowers-regular {
-  font-family: "Send Flowers", system-ui;
+  font-family: "fantasy", system-ui;
   font-weight: 400;
   font-style: normal;
   color: #ffffff;
 }
 h2{
-  font-family: "Send Flowers", system-ui;
+  font-family: "fantasy", system-ui;
   font-weight: 400;
   font-style: normal;
   text-align:center;
@@ -28,7 +28,7 @@ h2{
   text-shadow:1px 1px 2px #ffffff;
 }
 p{
-  font-family: "Hi Melody", system-ui;
+  font-family: "fantasy", system-ui;
   font-weight: 400;
   font-style: normal;
   text-align:center;
@@ -57,7 +57,7 @@ a{
   text-align:center;
   font-size: 30px;
   word-spacing: 200px;
-   font-family: "Send Flowers", system-ui;
+   font-family: "fantasy", system-ui;
   text-decoration: none;
 }
 body{
@@ -77,7 +77,7 @@ a:visited{
   font-size: 5.5em;
   letter-spacing: 0.3cm;
   color:#000000;
-  font-family:Modak;
+  font-family:fantasy;
   font-weight:400;
   font-style:normal;
   text-align:center;
@@ -115,7 +115,7 @@ u1{
   z-index: 1;
 }
 b{
-  font-family: "Hi Melody", system-ui;
+  font-family: "fantasy", system-ui;
   font-weight: 400;
   font-style: normal;
   text-align:center;
